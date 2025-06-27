@@ -8,7 +8,7 @@
 #### Great news! This GitHub open-source project is now fully prepared for use. Dive in and explore its features!
 
 
-## SocialPulse 2024 React Node.js MySQL Social Media App Open Source
+## Socialhub 2024 React Node.js MySQL Social Media App Open Source
 
 ### Full Stack Social Network App | Open Source
 
